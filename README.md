@@ -9,7 +9,7 @@ Hi, I'm Andre Aguiar
 
 
 ## :books: Currently studying
-- 
+- The Grammar of Graphics: https://ggplot2-book.org/
 
 ## :mortar_board: Background
 - Aerospace Engineer (UFABC)
