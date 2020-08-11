@@ -10,6 +10,7 @@ Hi, I'm Andre Aguiar
 
 ## :books: Currently studying
 - The Grammar of Graphics: https://ggplot2-book.org/
+- The Missing Semester of your CS education: https://missing.csail.mit.edu/
 
 ## :mortar_board: Background
 - Aerospace Engineer (UFABC)
