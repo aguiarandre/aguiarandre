@@ -9,8 +9,11 @@ Hi, I'm Andre Aguiar
 
 
 ## :books: Currently studying
-- The Grammar of Graphics: https://ggplot2-book.org/
-- The Missing Semester of your CS education: https://missing.csail.mit.edu/
+- [ ] The Grammar of Graphics: https://ggplot2-book.org/
+- [ ] Go language: [The Go Programming Language](https://www.amazon.com.br/Go-Programming-Language-Brian-Kernighan/dp/0134190440)
+
+### :books: Finished studying
+- [x] The Missing Semester of your CS education: https://missing.csail.mit.edu/
 
 ## :mortar_board: Background
 - Aerospace Engineer (UFABC)
