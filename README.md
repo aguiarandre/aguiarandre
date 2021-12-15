@@ -6,19 +6,22 @@ Hi, I'm Andre Aguiar
 
 ## :rocket: Highlights
 - [manim-training](https://github.com/aguiarandre/manim-training): Development of a brief documentation of the main concepts of the library **manin** for creating impressive visualizations.
-
+- [CS50ai](https://github.com/aguiarandre/cs50ai): Projects from https://cs50.harvard.edu/ai/2020/. Take a look at [minesweeper](https://github.com/aguiarandre/cs50ai/tree/main/02-knowledge/project/minesweeper), e.g.
 
 ## :books: Currently studying
 - [ ] The Grammar of Graphics: https://ggplot2-book.org/
-- [ ] Go language: [The Go Programming Language](https://www.amazon.com.br/Go-Programming-Language-Brian-Kernighan/dp/0134190440)
+- [ ] Gilbert Strang's Linear Algebra and Learning from Data: https://math.mit.edu/~gs/learningfromdata/ 
 
 ### :books: Finished studying
 - [x] The Missing Semester of your CS education: https://missing.csail.mit.edu/
+- [x] Go language: [The Go Programming Language](https://www.amazon.com.br/Go-Programming-Language-Brian-Kernighan/dp/0134190440)
 
 ## :mortar_board: Background
 - Aerospace Engineer (UFABC)
 - Master's Degree (ITA)
 - Data Scientist (Itau)
+- Lead Teacher (Ironhack)
+- Data Scientist (C6 Bank)
 
 ## :older_man: Old stuff
 - Fluid flow simulation [website](https://sites.google.com/site/andreaguiarcfd/research) :link:
